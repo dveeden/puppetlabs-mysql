@@ -581,10 +581,14 @@ mysql_plugin { 'auth_socket':
 
 This module has been tested on:
 
-* RedHat Enterprise Linux 5/6
-* Debian 6/7
-* CentOS 5/6
-* Ubuntu 12.04
+* RedHat Enterprise Linux 5, 6, 7
+* Oracle Linux 5, 6, 7
+* CentOS 5, 6, 7
+* Scientific Linux 5, 6, 7
+* Debian 6, 7
+* Ubuntu 10.04, 12.04, 14.04
+* SUSE Linux Enterprise Server 10 SP4, 11 SP1, 12
+* FreeBSD 10.1-RELEASE
 
 Testing on other platforms has been light and cannot be guaranteed.
 
