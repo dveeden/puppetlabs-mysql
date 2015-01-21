@@ -1,5 +1,5 @@
 class mysql::utilities (
-  $ensure => 'present',
+  $ensure = 'present',
 ) {
   package { 'mysql-utilities':
     ensure => $ensure
